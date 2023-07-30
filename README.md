@@ -9,9 +9,7 @@ https://www.docker.com/products/docker-desktop/
 Once install run this cmd to confirm  
 <code>docker</code>  
 To build Docker Image.  
-<code>
-docker build --tag basic-python-docker:v0.1 .
-</code>  
+<code>docker build --tag basic-python-docker:v0.1 .</code>  
 Once Image build run this cmd to check image build successfully.  
 <code>docker images</code>  
 Once Confirmed. we can run this image using this cmd.  
